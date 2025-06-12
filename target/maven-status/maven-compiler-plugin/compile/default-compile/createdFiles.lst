@@ -1,0 +1,4 @@
+com/clothingstore/store/StoreApplication.class
+com/clothingstore/store/controller/ProductController.class
+com/clothingstore/store/repository/ProductRepository.class
+com/clothingstore/store/model/Product.class
